@@ -1,0 +1,14 @@
+
+QPushButton#home_maximize{
+border-image: url(:/img/btn/maximize.png);
+}
+
+QPushButton#home_maximize:hover	 {
+border-image: url(:/img/btn/maximize2.png);
+}
+
+QPushButton#home_maximize:pressed{url(:/img/btn/maximize2.png);
+}
+
+
+

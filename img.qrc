@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/btn/bg.png</file>
+        <file>img/btn/minimum_btn.png</file>
+        <file>img/btn/minimum_btn2.png</file>
+        <file>img/btn/maximize.png</file>
+        <file>img/btn/maximize2.png</file>
+        <file>img/btn/closure.png</file>
+        <file>img/btn/closure2.png</file>
+        <file>img/btn/equipment.png</file>
+        <file>img/btn/tool_click.png</file>
+        <file>img/btn/config.png</file>
+        <file>img/btn/focus.png</file>
+        <file>img/btn/analyse.png</file>
+        <file>img/btn/file.png</file>
+        <file>img/btn/auto_focus_tool.png</file>
+        <file>img/btn/box-select extrema_tool.png</file>
+        <file>img/btn/capture_card_tool.png</file>
+        <file>img/btn/close_focus_tool.png</file>
+        <file>img/btn/config_tool_tool.png</file>
+        <file>img/btn/continuous_measurement_tool.png</file>
+        <file>img/btn/export_table_tool.png</file>
+        <file>img/btn/focus_distance_tool.png</file>
+        <file>img/btn/motor_tool.png</file>
+        <file>img/btn/mouse_arrow_tool.png</file>
+        <file>img/btn/open_file_tool.png</file>
+        <file>img/btn/pause_tool.png</file>
+        <file>img/btn/print_tool.png</file>
+        <file>img/btn/recovery_tool.png</file>
+        <file>img/btn/save_data_tool.png</file>
+        <file>img/btn/single_measurement_tool.png</file>
+        <file>img/btn/stop_focusing_tool.png</file>
+        <file>img/btn/tool_click2_tool.png</file>
+        <file>img/btn/zoom_tool.png</file>
+        <file>img/btn/tool_click2.png</file>
+        <file>img/btn/checked.png</file>
+        <file>img/btn/unselected.png</file>
+        <file>img/btn/A1.png</file>
+        <file>img/btn/A2.png</file>
+        <file>img/btn/checked_b.png</file>
+        <file>img/btn/unselected_b.png</file>
+        <file>img/btn/logo.png</file>
+    </qresource>
+</RCC>
